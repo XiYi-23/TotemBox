@@ -1,0 +1,10 @@
+{
+  "item.totem-box.totem_box": "图腾收纳盒",
+  "item.totem-box.totem_box.info": "不死图腾 %1$s/%2$s",
+  "item.totem-box.totem_box.usage": "§e右键§r 装填",
+  "item.totem-box.totem_box.usage2": "§eSHIFT+右键§r 取出",
+  "message.totem-box.empty": "你的不死图腾收纳盒空了！",
+  "message.totem-box.last_one": "还剩一个不死图腾！",
+  "text.autoconfig.totem-box.option.capacity": "容量",
+  "text.autoconfig.totem-box.option.capacity.@Tooltip": "盒子中能存放的不死图腾数量"
+}

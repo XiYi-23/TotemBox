@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "p": {
+      "tag": "minecraft:planks"
+    },
+    "t": {
+      "item": "minecraft:totem_of_undying"
+    }
+  },
+  "pattern": [
+    "iii",
+    "ptp",
+    "ppp"
+  ],
+  "result": {
+    "count": 1,
+    "id": "totem-box:totem_box"
+  }
+}

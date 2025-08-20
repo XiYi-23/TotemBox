@@ -1,0 +1,10 @@
+{
+  "item.totem-box.totem_box": "totem_box",
+  "item.totem-box.totem_box.info": "Totem_of_undying %1$s/%2$s",
+  "item.totem-box.totem_box.usage": "§eRIGHTCLICK§r to reload",
+  "item.totem-box.totem_box.usage2": "§eSHIFT+RIGHTCLICK§r to unload",
+  "message.totem-box.empty": "Your totem_box is empty now!",
+  "message.totem-box.last_one": "There is only one totem left!",
+  "text.autoconfig.totem-box.option.capacity": "Capacity",
+  "text.autoconfig.totem-box.option.capacity.@Tooltip": "How many totem can box contain"
+}
